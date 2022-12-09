@@ -64,9 +64,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td>
-  </tr>
- <tr>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
@@ -74,6 +72,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-              
- </tr>
+  </tr>
+
 </table>
