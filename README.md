@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=100&section=header"/>
 </p>
+
 # 📈 Account stats
+
 <a href="https://github-readme-stats.vercel.app/api?username=arjun-234&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-234&show_icons=true&theme=dark" />
 </a>
