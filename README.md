@@ -1,4 +1,4 @@
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-234&show_icons=true&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-234&show_icons=true&theme=transparent)
 
 # Contributions so far
 
