@@ -1,4 +1,4 @@
-# Account state
+# Account stats
 
 ![](https://github-readme-stats.vercel.app/api?username=arjun-234&show_icons=true&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-234&layout=compact&theme=dark)
 
